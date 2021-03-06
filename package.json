@@ -17,7 +17,7 @@
     "scripts": {
         "start": "react-scripts start",
         "build-demo": "react-scripts build && mv build docs",
-        "clean": "rimraf build/ && rimraf declaration/",
+        "clean": "rimraf build/ && rimraf declaration/ && rimraf docs/",
         "build-prod": "rollup -c",
         "build": "npm-run-all clean build-prod build-demo"
     },
