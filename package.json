@@ -24,6 +24,7 @@
     "bugs": {
         "url": "https://github.com/xaunvih/react-dragscroll/issues"
     },
+    "homepage": "https://xaunvih.github.io/use-dragscroll-ts/",
     "keywords": [
         "react",
         "drag",
