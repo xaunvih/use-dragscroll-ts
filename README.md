@@ -1,2 +1,3 @@
 # Custom hook
- - from dragscroll-ts lib: https://github.com/xaunvih/dragscroll-ts
+ - From dragscroll-ts lib: https://github.com/xaunvih/dragscroll-ts
+ - Live demo: https://xaunvih.github.io/use-dragscroll-ts/
